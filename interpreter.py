@@ -8,7 +8,7 @@ class SchweinError(Exception):
         self.message = message
 
     def __str__(self):
-        """Simulate a German pig dying"""
+        """Simulate a German pig that is dying"""
         return f"OINK! OINK! GRUUUNZZZZ... {self.message} 💀"
 
 words = [
