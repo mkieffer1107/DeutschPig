@@ -13,5 +13,5 @@ python interpreter.py
 Schnüffel 🐽> <filename>SCHWEIN<file-content>
 ```
 
-<!-- 🤫 https://youtu.be/ieqsL5NkS6I?si=rK4EwhZxjPBaTajN -->
+<!-- ein sekret für dich 🤫🤫🤫 https://youtu.be/ieqsL5NkS6I?si=rK4EwhZxjPBaTajN 🤫🤫🤫 -->
 
